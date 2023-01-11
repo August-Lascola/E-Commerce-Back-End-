@@ -18,7 +18,9 @@ MYSQL2, express.js, sequelize
 
 ## Installation
 -------------
-To run the file, add a .env file to the root of the project. 
+node.js 
+npm i express
+npm i mongoose
 
 ## FUNCTIONALITY
 ----------------
